@@ -106,6 +106,76 @@ const products = [
         rating: 4.3,
         reviewCount: 67,
         description: "Classic denim jacket with modern fit, durable construction, and timeless style."
+    },
+    {
+        id: 9,
+        name: "Tecno Spark 40",
+        category: "electronics",
+        price: 150000,
+        salePrice: 145000,
+        image: "img9.jpg",
+        rating: 4.5,
+        reviewCount: 178,
+        inStock: true,
+        isNew: true,
+        isSale: true,
+        description: "Latest tecno smart phone with rear and unique features affordably available "
+    },
+    {
+        id: 10,
+        name: "Psvita Console",
+        category: "electronics",
+        price: 250000,
+        salePrice: 230000,
+        image: "img10.jpg",
+        rating: 4.6,
+        reviewCount: 156,
+        inStock: true,
+        isNew: false,
+        isSale: true,
+        description: "Professional gaming Console with customizable buttons, precise analog sticks, and wireless connectivity."
+    },
+    {
+        id: 11,
+        name: "Wireless Gaming Controller",
+        category: "electronics",
+        price: 90000,
+        salePrice: 79000,
+        image: "img11.jpg",
+        rating: 4.6,
+        reviewCount: 156,
+        inStock: false,
+        isNew: false,
+        isSale: true,
+        description: "Professional gaming controller with customizable buttons, precise analog sticks, and wireless connectivity."
+    },
+      {
+        id: 12,
+        name: "Tecno Spark 30 pro",
+        category: "electronics",
+        price: 220000,
+        salePrice: null,
+        image: "img12.jpg", 
+        rating: 4.7,
+        reviewCount: 134,
+        inStock: true,
+        isNew: false,
+        isSale: false,
+        description: "Nice design, latest and android phone with cool features."
+    },
+    {
+        id: 13,
+        name: "iphone 17 pro",
+        category: "electronics",
+        price: 2000000,
+        salePrice: null,
+        image: "img13.jpg", 
+        rating: 4.7,
+        reviewCount: 134,
+        inStock: true,
+        isNew: true,
+        isSale: false,
+        description: "Sleek and nice design, latest and iphone  with fantastic features."
     }
 ];
 
