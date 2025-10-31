@@ -341,7 +341,7 @@ function updateWhatsAppLink() {
     
     // URL encode the message
     const encodedMessage = encodeURIComponent(message);
-    whatsappCheckout.href = `https://wa.me/1234567890?text=${encodedMessage}`;
+    whatsappCheckout.href = `https://wa.me/2349050911921?text=${encodedMessage}`;
 }
 
 
